@@ -18,6 +18,10 @@ pnpm add @lotr-sdk
 yarn add @lotr-sdk
 ```
 
+## Env Vars
+
+Create an env var `LOTR_API_TOKEN` to store your `the-one-api.dev` API key.
+
 ## Usage
 
 To use this SDK, first require the package:
